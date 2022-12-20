@@ -1,0 +1,74 @@
+/* التكليف 1 */
+
+/* Any Element With Class Title */
+.title {
+}
+
+/* The element has id nav */
+#nav {
+}
+
+/* any div selector */
+div {
+}
+
+/* any h2 selector */
+h2 {
+
+}
+
+/* التكليف 5 */
+
+/* valied */
+._user-name {
+}
+
+/* valied */
+.-user-name {
+}
+
+/* valied */
+.-user-name {
+}
+
+/* Not */
+.1user-name {
+}
+
+/* Not */
+.@user-name {
+}
+
+/* Not */
+.user@name {
+}
+
+/* valied */
+._user10name {
+}
+
+/* valied */
+.u {
+}
+
+/* التكليف 6 */
+
+/* bad */
+.USERNAME {
+}
+
+/* good */
+.UserName {
+}
+
+/* good */
+.user-name {
+}
+
+/* good */
+.userName {
+}
+
+/* bad */
+.usernameprofile {
+}

@@ -1,0 +1,38 @@
+div{
+    background-color: gainsboro;
+    display: inline-block;
+    padding: 20px;
+    margin: 15px;
+    outline: 5px solid;
+}
+.one{
+    border: 5px solid red;
+}
+
+.two{
+    border: 5px solid;
+    border-color: red green;
+}
+
+.three{
+    border: 5px;
+    border-color: red #6029c0 #009688 #ff9800;
+    border-style: dashed;
+}
+
+p{
+    background-color: gainsboro;
+    font-size: 20px;
+    width: 400px;
+    padding: 10px;
+    border-left: 5px solid red;
+    outline: 10px solid gainsboro;
+    margin: 20px;
+}
+.p2{
+    visibility: hidden;
+}
+.p3{
+    border-left: 5px solid green;
+
+}
